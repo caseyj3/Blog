@@ -1,4 +1,4 @@
-## Manimal Jackson
+## Welcome!
 <html>
 <body>
 
@@ -13,3 +13,4 @@ function myFunction() {
 
 </body>
 </html>
+This blog serves as a place to track my personal projects and course work. 
