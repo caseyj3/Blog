@@ -1,5 +1,6 @@
 ## Manimal Jackson
 Test
+<!DOCTYPE html>
 <html>
 <body>
 
